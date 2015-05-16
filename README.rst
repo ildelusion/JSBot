@@ -1,8 +1,8 @@
 CALAB bot
 ==========
 
-Hangout Bot for KAIST Computer Architecture Lab
-(forked from hangupsbot)
+Hangout Bot for JSIM
+(forked from hangupsbot and calab_bot)
 
 Requirements
 ------------
