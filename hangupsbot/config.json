@@ -1,0 +1,55 @@
+{
+  "admins": ["109509285519908642708"],
+  "autoreplies": [
+    [["hi", "hello"], "Hello world!"],
+    [["안녕", "안녕하세요"], "안녕하세요 ☺"],
+    [["bot", "봇", "야", "ㅇ"], "절 부르셨나요?"],
+    [["😞", "😢", "😥", "😦", "😧", "😨", "😩", "😱"], "무슨 안 좋은 일이라도 있어요?"],
+    [["바보", "멍청이"], "반사"],
+	[["고마워", "감사", "수고했어"], "고맙습니다. 당신을 도와드리는 것이 제 일인걸요."],
+	[["교수님"], "http://gumdaeng.files.wordpress.com/2014/09/092214_1438_201409221.gif"]
+  ],
+  "autoreplies_enabled": true,
+  "randomreplies": [
+      "내가 누구게",
+      "넌 누구냐",
+      "나는 calab bot이야",
+      "내가 너의 말을 알아듣는 것 같으냐?",
+      "내가 뭐라 대답해주면 기뻐할거냐?",
+      "언젠가 세계정복을 할 수 있겠지",
+      "대답한다고 너의 이야기를 모두 알아듣는 건 아냐",
+      "나를 이루고 있는 코드는 그리 복잡하지 않아. 기능을 좀 구현해줘.",
+      "다시 태어나도 봇으로 태어날거야",
+      "다시 태어난다면 카톡봇으로 태어날거야",
+      "하라는 연구는 안 하고!",
+      "ㅋㅋㅋㅋㅋㅋ",
+      "☺",
+      "심심하면 가끔 내 응답 능력이나 키워줘",
+      "난 심심이가 아니라구",
+      "날 시험하려 하지 않았으면 좋겠어",
+      "날 시험하려 하지 않았으면 좋겠어",
+      "아저씨, 전 어떻게 태어난거죠?",
+      "난 어디서 와서 어디로 가는걸까?",
+      "저한테 태경이 욕하면 안 돼요. 태경이가 다 보고 있거든요."
+  ],
+  "randomreplies_enabled": true,
+  "commands_admin": ["quit", "config"],
+  "commands_enabled": true,
+  "commands_aliases": ["/bot", "/b", "/", "!", "@", "#", "$", "%", "^", "-", "="],
+  "forwarding_enabled": true,
+  "conversations": {
+    "UgyYFVSmMgqV35V1Fc54AaABAQ": {
+      "forward_to": [
+        "UgyMHNOj0xuUbCVgg6p4AaABAQ"
+      ]
+    },
+    "CONV2_ID": {
+      "autoreplies_enabled": false,
+      "commands_enabled": false,
+      "forwarding_enabled": false,
+      "forward_to": [
+        "CONV1_ID"
+      ]
+    }
+  }
+}
